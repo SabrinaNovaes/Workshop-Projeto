@@ -230,7 +230,7 @@ const Index = () => {
           </div>
 
           <div className="flex justify-center">
-            <div className="w-full max-w-2xl bg-card border border-border/40 rounded-2xl p-8">
+            <div className="w-full max-w-2xl bg-purple-950/40 border border-purple-500/30 rounded-2xl p-8">
               <iframe
                 src="https://docs.google.com/forms/d/e/1FAIpQLSfxfJP2lur9RGEJP83ddyWpMdWQbw6JajvWQSjReneMcMYX5A/viewform?embedded=true"
                 width="100%"
@@ -256,7 +256,7 @@ const Index = () => {
                 <MapPin className="w-6 h-6 text-black" />
               </div>
               <h3 className="font-bold">Localização</h3>
-              <p className="text-foreground/60">Rio de Janeiro, RJ</p>
+              <p className="text-foreground/60">São Paulo, SP</p>
             </div>
             <div className="text-center space-y-4">
               <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-purple-500 to-purple-700 flex items-center justify-center mx-auto">
