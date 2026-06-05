@@ -230,7 +230,7 @@ const Index = () => {
           </div>
 
           <div className="flex justify-center">
-            <div className="w-full max-w-2xl bg-purple-950/40 border border-purple-500/30 rounded-2xl p-8">
+            <div className="w-full max-w-2xl bg-purple-200/70 border border-purple-500/30 rounded-2xl p-8">
               <iframe
                 src="https://docs.google.com/forms/d/e/1FAIpQLSfxfJP2lur9RGEJP83ddyWpMdWQbw6JajvWQSjReneMcMYX5A/viewform?embedded=true"
                 width="100%"
