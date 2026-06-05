@@ -256,7 +256,7 @@ const Index = () => {
                 <MapPin className="w-6 h-6 text-black" />
               </div>
               <h3 className="font-bold">Localização</h3>
-              <p className="text-foreground/60">São Paulo, SP</p>
+              <p className="text-foreground/60">Rio de Janeiro, RJ</p>
             </div>
             <div className="text-center space-y-4">
               <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-purple-500 to-purple-700 flex items-center justify-center mx-auto">
